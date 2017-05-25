@@ -1,1 +1,1 @@
-<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">JRide</string></resources>
+<resources><string name="Usuario">Número de Usuario:</string><string name="BtnSeleccionarCarro">Seleccionar</string><string name="SeleccionarCarro">¿Qué vehículo vas a utilizar?</string><string name="Contrasena">Contraseña:</string><string name="Entrar">Entrar</string><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">JRide</string></resources>
